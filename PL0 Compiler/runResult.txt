@@ -1,0 +1,9 @@
+Input two letters 
+w e  After m 
+-0.135802
+Input two letters 
+E W 69
+0.135802
+Input two letters 
+1 2  Invalid 
+0

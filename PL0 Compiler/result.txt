@@ -1,0 +1,498 @@
+var  x  5
+var  y  6
+var  z  7
+var  arraylist  8
+proc  test1  9
+var  x  10
+var  y  11
+proc  test4  12
+proc  test2  13
+var  i  14
+var  ans  15
+proc  test3  14
+var  a  15
+var  b  16
+func  swap1  15
+var  temp  16
+func  swap2  16
+var  m  17
+var  n  18
+var  temp  19
+func  swap3  17
+var  temp  20
+func  swap4  18
+var  n  19
+18 swap4
+18 swap4
+16 swap2
+17 swap3
+18 swap4
+Syntax Analysis Complete.
+Error Number : 0
+0  INT  0  4
+1  JMP  0  232
+2  JMP  0  6
+3  JMP  0  4
+4  INT  0  0
+5  OPR  0  0
+6  INT  0  2
+7  LIT  -1  32
+8  LIT  -1  58
+9  LIT  -1  32
+10  LIT  -1  121
+11  LIT  -1  32
+12  LIT  -1  120
+13  LIT  -1  32
+14  LIT  -1  114
+15  LIT  -1  101
+16  LIT  -1  103
+17  LIT  -1  101
+18  LIT  -1  116
+19  LIT  -1  110
+20  LIT  -1  105
+21  LIT  -1  32
+22  LIT  -1  116
+23  LIT  -1  117
+24  LIT  -1  112
+25  LIT  -1  110
+26  LIT  -1  105
+27  LIT  -1  32
+28  LIT  -1  101
+29  LIT  -1  115
+30  LIT  -1  97
+31  LIT  -1  101
+32  LIT  -1  108
+33  LIT  -1  80
+34  WRT  0  2
+35  WRT  0  2
+36  WRT  0  2
+37  WRT  0  2
+38  WRT  0  2
+39  WRT  0  2
+40  WRT  0  2
+41  WRT  0  2
+42  WRT  0  2
+43  WRT  0  2
+44  WRT  0  2
+45  WRT  0  2
+46  WRT  0  2
+47  WRT  0  2
+48  WRT  0  2
+49  WRT  0  2
+50  WRT  0  2
+51  WRT  0  2
+52  WRT  0  2
+53  WRT  0  2
+54  WRT  0  2
+55  WRT  0  2
+56  WRT  0  2
+57  WRT  0  2
+58  WRT  0  2
+59  WRT  0  2
+60  WRT  0  2
+61  WRT  0  3
+62  RED  0  0
+63  STO  0  4
+64  RED  0  0
+65  STO  0  5
+66  LOD  0  4
+67  LOD  0  5
+68  OPR  0  8
+69  JPC  0  84
+70  LIT  -1  32
+71  LIT  -1  58
+72  LIT  -1  120
+73  LIT  -1  97
+74  LIT  -1  77
+75  WRT  0  2
+76  WRT  0  2
+77  WRT  0  2
+78  WRT  0  2
+79  WRT  0  2
+80  LOD  0  4
+81  WRT  0  0
+82  WRT  0  3
+83  JMP  0  97
+84  LIT  -1  32
+85  LIT  -1  58
+86  LIT  -1  120
+87  LIT  -1  97
+88  LIT  -1  77
+89  WRT  0  2
+90  WRT  0  2
+91  WRT  0  2
+92  WRT  0  2
+93  WRT  0  2
+94  LOD  0  5
+95  WRT  0  0
+96  WRT  0  3
+97  OPR  0  0
+98  JMP  0  99
+99  INT  0  2
+100  LIT  -1  0
+101  STO  0  5
+102  LIT  -1  1
+103  STO  0  4
+104  LOD  0  4
+105  LIT  -1  10
+106  OPR  0  9
+107  JPC  0  122
+108  LOD  0  5
+109  LOD  0  4
+110  OPR  0  2
+111  STO  0  5
+112  LOD  0  4
+113  LIT  -1  7
+114  OPR  0  2
+115  LOD  0  5
+116  STA  1  0
+117  LOD  0  4
+118  LIT  -1  1
+119  OPR  0  2
+120  STO  0  4
+121  JMP  0  104
+122  LIT  -1  61
+123  LIT  -1  115
+124  LIT  -1  110
+125  LIT  -1  97
+126  WRT  0  2
+127  WRT  0  2
+128  WRT  0  2
+129  WRT  0  2
+130  LOD  0  5
+131  WRT  0  0
+132  WRT  0  3
+133  OPR  0  0
+134  JMP  0  135
+135  INT  0  2
+136  LIT  -1  10
+137  STO  0  5
+138  LIT  -1  1
+139  STO  0  4
+140  LIT  -1  61
+141  LIT  -1  97
+142  WRT  0  2
+143  WRT  0  2
+144  LOD  0  4
+145  WRT  0  0
+146  WRT  0  3
+147  LOD  0  4
+148  LIT  -1  1
+149  OPR  0  2
+150  STO  0  4
+151  LOD  0  5
+152  LIT  -1  1
+153  OPR  0  3
+154  STO  0  5
+155  LOD  0  5
+156  LIT  -1  0
+157  OPR  0  6
+158  JPC  0  140
+159  OPR  0  0
+160  JMP  0  161
+161  INT  0  1
+162  LOD  0  4
+163  STO  0  4
+164  LOD  0  5
+165  STO  0  4
+166  LOD  0  4
+167  STO  0  5
+168  LOD  0  4
+169  LOD  0  5
+170  OPR  0  2
+171  STO  0  3
+172  SRV  0  0
+173  JMP  0  174
+174  INT  0  1
+175  LOD  0  4
+176  STO  0  6
+177  LOD  0  5
+178  STO  0  4
+179  LOD  0  6
+180  STO  0  5
+181  LOD  0  4
+182  LOD  0  5
+183  OPR  0  3
+184  STO  0  3
+185  SRV  0  0
+186  JMP  0  187
+187  INT  0  1
+188  LAD  0  4
+189  STO  0  6
+190  LAD  0  5
+191  SAD  0  4
+192  LOD  0  6
+193  SAD  0  5
+194  LAD  0  4
+195  LAD  0  5
+196  OPR  0  5
+197  STO  0  3
+198  SRV  0  0
+199  JMP  0  200
+200  INT  0  0
+201  LOD  0  4
+202  LIT  -1  1
+203  OPR  0  6
+204  JPC  0  208
+205  LIT  -1  1
+206  STO  0  3
+207  JMP  0  231
+208  LOD  0  4
+209  LIT  -1  2
+210  OPR  0  6
+211  JPC  0  215
+212  LIT  -1  1
+213  STO  0  3
+214  JMP  0  231
+215  LOD  0  4
+216  LIT  -1  1
+217  OPR  0  3
+218  CAL  1  1
+219  INT  0  5
+220  JMP  0  200
+221  OPR  0  12
+222  LOD  0  4
+223  LIT  -1  2
+224  OPR  0  3
+225  CAL  1  1
+226  INT  0  5
+227  JMP  0  200
+228  OPR  0  12
+229  OPR  0  2
+230  STO  0  3
+231  SRV  0  0
+232  INT  0  18
+233  LIT  -1  10
+234  STO  -1  4
+235  LIT  -1  20
+236  STO  -1  5
+237  CAL  0  0
+238  INT  0  4
+239  JMP  0  161
+240  OPR  0  12
+241  STO  0  6
+242  LIT  -1  61
+243  LIT  -1  120
+244  WRT  0  2
+245  WRT  0  2
+246  LOD  -1  4
+247  WRT  0  0
+248  WRT  0  3
+249  LIT  -1  61
+250  LIT  -1  121
+251  WRT  0  2
+252  WRT  0  2
+253  LOD  -1  5
+254  WRT  0  0
+255  WRT  0  3
+256  LIT  -1  61
+257  LIT  -1  122
+258  WRT  0  2
+259  WRT  0  2
+260  LOD  0  6
+261  WRT  0  1
+262  WRT  0  3
+263  LOD  -1  4
+264  LOD  -1  5
+265  CAL  0  2
+266  INT  0  6
+267  JMP  0  174
+268  OPR  0  12
+269  STO  0  6
+270  LIT  -1  61
+271  LIT  -1  120
+272  WRT  0  2
+273  WRT  0  2
+274  LOD  -1  4
+275  WRT  0  0
+276  WRT  0  3
+277  LIT  -1  61
+278  LIT  -1  121
+279  WRT  0  2
+280  WRT  0  2
+281  LOD  -1  5
+282  WRT  0  0
+283  WRT  0  3
+284  LIT  -1  61
+285  LIT  -1  122
+286  WRT  0  2
+287  WRT  0  2
+288  LOD  0  6
+289  WRT  0  1
+290  WRT  0  3
+291  LIT  -1  4
+292  LIT  -1  5
+293  CAL  0  2
+294  INT  0  6
+295  JMP  0  187
+296  OPR  0  12
+297  STO  0  6
+298  LIT  -1  61
+299  LIT  -1  120
+300  WRT  0  2
+301  WRT  0  2
+302  LOD  -1  4
+303  WRT  0  0
+304  WRT  0  3
+305  LIT  -1  61
+306  LIT  -1  121
+307  WRT  0  2
+308  WRT  0  2
+309  LOD  -1  5
+310  WRT  0  0
+311  WRT  0  3
+312  LIT  -1  61
+313  LIT  -1  122
+314  WRT  0  2
+315  WRT  0  2
+316  LOD  0  6
+317  WRT  0  1
+318  WRT  0  3
+319  CAL  0  0
+320  INT  0  4
+321  JMP  0  6
+322  CAL  0  0
+323  INT  0  4
+324  JMP  0  99
+325  CAL  0  0
+326  INT  0  4
+327  JMP  0  135
+328  LIT  -1  32
+329  LIT  -1  58
+330  LIT  -1  32
+331  LIT  -1  116
+332  LIT  -1  115
+333  LIT  -1  105
+334  LIT  -1  108
+335  LIT  -1  121
+336  LIT  -1  97
+337  LIT  -1  114
+338  LIT  -1  114
+339  LIT  -1  97
+340  WRT  0  2
+341  WRT  0  2
+342  WRT  0  2
+343  WRT  0  2
+344  WRT  0  2
+345  WRT  0  2
+346  WRT  0  2
+347  WRT  0  2
+348  WRT  0  2
+349  WRT  0  2
+350  WRT  0  2
+351  WRT  0  2
+352  WRT  0  3
+353  LIT  -1  1
+354  LIT  -1  7
+355  OPR  0  2
+356  LOA  0  0
+357  WRT  0  0
+358  WRT  0  3
+359  LIT  -1  2
+360  LIT  -1  7
+361  OPR  0  2
+362  LOA  0  0
+363  WRT  0  0
+364  WRT  0  3
+365  LIT  -1  3
+366  LIT  -1  7
+367  OPR  0  2
+368  LOA  0  0
+369  WRT  0  0
+370  WRT  0  3
+371  LIT  -1  4
+372  LIT  -1  7
+373  OPR  0  2
+374  LOA  0  0
+375  WRT  0  0
+376  WRT  0  3
+377  LIT  -1  5
+378  LIT  -1  7
+379  OPR  0  2
+380  LOA  0  0
+381  WRT  0  0
+382  WRT  0  3
+383  LIT  -1  6
+384  LIT  -1  7
+385  OPR  0  2
+386  LOA  0  0
+387  WRT  0  0
+388  WRT  0  3
+389  LIT  -1  7
+390  LIT  -1  7
+391  OPR  0  2
+392  LOA  0  0
+393  WRT  0  0
+394  WRT  0  3
+395  LIT  -1  8
+396  LIT  -1  7
+397  OPR  0  2
+398  LOA  0  0
+399  WRT  0  0
+400  WRT  0  3
+401  LIT  -1  9
+402  LIT  -1  7
+403  OPR  0  2
+404  LOA  0  0
+405  WRT  0  0
+406  WRT  0  3
+407  LIT  -1  10
+408  LIT  -1  7
+409  OPR  0  2
+410  LOA  0  0
+411  WRT  0  0
+412  WRT  0  3
+413  LIT  -1  9
+414  CAL  0  1
+415  INT  0  5
+416  JMP  0  200
+417  OPR  0  12
+418  STO  0  6
+419  CAL  -1  0
+420  INT  0  4
+421  JMP  0  4
+422  LIT  -1  61
+423  LIT  -1  122
+424  WRT  0  2
+425  WRT  0  2
+426  LOD  0  6
+427  WRT  0  1
+428  WRT  0  3
+429  OPR  0  0
+Pcode Complete.
+x=10
+y=20
+z=0.000000
+x=10
+y=20
+z=10.000000
+x=20
+y=10
+z=2.000000
+Please input integer x y : 
+Max: 23
+ans=55
+a=1
+a=2
+a=3
+a=4
+a=5
+a=6
+a=7
+a=8
+a=9
+a=10
+arraylist : 
+1
+3
+6
+10
+15
+21
+28
+36
+45
+55
+z=34.000000
+
+Program Run Over.

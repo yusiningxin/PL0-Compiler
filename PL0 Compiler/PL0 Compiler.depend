@@ -1,0 +1,386 @@
+# depslib dependency file v1.0
+1449743974 source:e:\pl0 compiler\assignstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1449732928 e:\pl0 compiler\header.h
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<string>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
+1449731083 e:\pl0 compiler\vardef.h
+
+1449744362 source:e:\pl0 compiler\block.cpp
+	"header.h"
+	"VarDef.h"
+
+1450074485 source:e:\pl0 compiler\compstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1449744304 source:e:\pl0 compiler\constvardef.cpp
+	"header.h"
+	"VarDef.h"
+
+1449745330 source:e:\pl0 compiler\error.cpp
+	"header.h"
+	"VarDef.h"
+
+1449746271 source:e:\pl0 compiler\getsym.cpp
+	"header.h"
+	"VarDef.h"
+
+1449731083 source:e:\pl0 compiler\globaldef.cpp
+	"header.h"
+
+1449734205 source:e:\pl0 compiler\ifstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1449989589 source:e:\pl0 compiler\main.cpp
+	"header.h"
+	"VarDef.h"
+
+1449745771 source:e:\pl0 compiler\objcode.cpp
+	"header.h"
+	"VarDef.h"
+
+1449724191 source:e:\pl0 compiler\procalstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1449389139 source:e:\pl0 compiler\profuncdef.cpp
+	"header.h"
+	"VarDef.h"
+
+1449736982 source:e:\pl0 compiler\repeatforstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1449744201 source:e:\pl0 compiler\symtable.cpp
+	"header.h"
+	"VarDef.h"
+
+1450078374 source:e:\pl0 compiler\writereadstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450078374 source:e:\pl0 compiler\execute.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092256 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\block.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091212 e:\13182002_刘秋月_测试程序一\pl0 compiler\header.h
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<string>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
+1450090713 e:\13182002_刘秋月_测试程序一\pl0 compiler\vardef.h
+
+1450074485 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\compstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450078374 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\execute.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\getsym.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\globaldef.cpp
+	"header.h"
+
+1449734205 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\ifstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1451284829 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\main.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091380 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\objcode.cpp
+	"header.h"
+	"VarDef.h"
+
+1449724191 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\procalstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091212 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\profuncdef.cpp
+	"header.h"
+	"VarDef.h"
+
+1449736982 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\repeatforstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091400 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\symtable.cpp
+	"header.h"
+	"VarDef.h"
+
+1450078374 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\writereadstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091348 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\assignstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450085072 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\constvardef.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091663 source:e:\13182002_刘秋月_测试程序一\pl0 compiler\error.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091348 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\assignstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091212 g:\13182002_刘秋月_测试程序一\pl0 compiler\header.h
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<string>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
+1450090713 g:\13182002_刘秋月_测试程序一\pl0 compiler\vardef.h
+
+1450092256 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\block.cpp
+	"header.h"
+	"VarDef.h"
+
+1450074485 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\compstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450085072 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\constvardef.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091663 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\error.cpp
+	"header.h"
+	"VarDef.h"
+
+1450078374 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\execute.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\getsym.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\globaldef.cpp
+	"header.h"
+
+1449734205 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\ifstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091348 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\main.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091380 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\objcode.cpp
+	"header.h"
+	"VarDef.h"
+
+1449724191 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\procalstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091212 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\profuncdef.cpp
+	"header.h"
+	"VarDef.h"
+
+1449736982 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\repeatforstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091400 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\symtable.cpp
+	"header.h"
+	"VarDef.h"
+
+1450078374 source:g:\13182002_刘秋月_测试程序一\pl0 compiler\writereadstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091348 source:g:\13182002_刘秋月_补测\pl0 compiler\assignstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091212 g:\13182002_刘秋月_补测\pl0 compiler\header.h
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<string>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
+1450090713 g:\13182002_刘秋月_补测\pl0 compiler\vardef.h
+
+1450092256 source:g:\13182002_刘秋月_补测\pl0 compiler\block.cpp
+	"header.h"
+	"VarDef.h"
+
+1450074485 source:g:\13182002_刘秋月_补测\pl0 compiler\compstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450085072 source:g:\13182002_刘秋月_补测\pl0 compiler\constvardef.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285755 source:g:\13182002_刘秋月_补测\pl0 compiler\error.cpp
+	"header.h"
+	"VarDef.h"
+
+1450078374 source:g:\13182002_刘秋月_补测\pl0 compiler\execute.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:g:\13182002_刘秋月_补测\pl0 compiler\getsym.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:g:\13182002_刘秋月_补测\pl0 compiler\globaldef.cpp
+	"header.h"
+
+1449734205 source:g:\13182002_刘秋月_补测\pl0 compiler\ifstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1451284829 source:g:\13182002_刘秋月_补测\pl0 compiler\main.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091380 source:g:\13182002_刘秋月_补测\pl0 compiler\objcode.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285389 source:g:\13182002_刘秋月_补测\pl0 compiler\procalstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285541 source:g:\13182002_刘秋月_补测\pl0 compiler\profuncdef.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285652 source:g:\13182002_刘秋月_补测\pl0 compiler\repeatforstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091400 source:g:\13182002_刘秋月_补测\pl0 compiler\symtable.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285682 source:g:\13182002_刘秋月_补测\pl0 compiler\writereadstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1452309743 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\assignstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091212 e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\header.h
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<string>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
+1450090713 e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\vardef.h
+
+1450092256 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\block.cpp
+	"header.h"
+	"VarDef.h"
+
+1450074485 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\compstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450085072 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\constvardef.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285755 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\error.cpp
+	"header.h"
+	"VarDef.h"
+
+1452310600 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\execute.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\getsym.cpp
+	"header.h"
+	"VarDef.h"
+
+1450092205 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\globaldef.cpp
+	"header.h"
+
+1449734205 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\ifstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1451284829 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\main.cpp
+	"header.h"
+	"VarDef.h"
+
+1452307256 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\objcode.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285389 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\procalstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285541 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\profuncdef.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285652 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\repeatforstatement.cpp
+	"header.h"
+	"VarDef.h"
+
+1450091400 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\symtable.cpp
+	"header.h"
+	"VarDef.h"
+
+1451285682 source:e:\buaa\编译原理\13182002_刘秋月\源代码\pl0 compiler\writereadstatement.cpp
+	"header.h"
+	"VarDef.h"
+
